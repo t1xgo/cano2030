@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like basketball and that i can talk basic Korean
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cano2030&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cano2030&theme=nightowl&show_icons=true)
