@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like basketball and that i can talk basic Korean
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cano2030&theme=nightowl&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cano2030)](https://github.com/cano2030/github-readme-stats)
