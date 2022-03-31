@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cano2030&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cano2030&theme=nightowl)](https://github.com/cano2030/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cano2030&layout=compact&theme=nightowl)](https://github.com/cano2030/github-readme-stats)
+
