@@ -4,7 +4,7 @@
 I'm a software developer, with very good logic programming always wishing for learning, fast learner and high communicative ability.</em></p>
 
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+<p><a href="http://www.richardkeelingdesign.com/gif/y3qtiku0m3ouo7nhh8jo28szu3270u">Adapted from Richard Keeling's excellent gif</a></p>
 
 ```javascript
 const aboutMe = {
