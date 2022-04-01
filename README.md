@@ -4,9 +4,8 @@
 I'm a software developer, with very good logic programming always wishing for learning, fast learner and high communicative ability.</em></p>
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="250" height="300" />
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="250" height="300" frameBorder="0" align="right" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -26,9 +25,9 @@ const aboutMe = {
 ```
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cano2030)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiagocanoduque)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/juan.dlch/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/santycanod/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cano2030@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jlondono705@soyudemedellin.edu.co)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:scano933@soyudemedellin.edu.co)
 
 ---
 <h3>Other skills 👀</h3>
