@@ -5,8 +5,8 @@ I'm a software developer, with very good logic programming always wishing for le
 
 
 
-<img align="right" alt="GIF" src="https://github.com/cano2030/Gifs/blob/main/giphy.gif" width="250" height="300" />
 
+  <img width="400" height="190" src="https://github.com/cano2030/Gifs/blob/main/giphy.gif" align=right>
 
 ```javascript
 const aboutMe = {
@@ -33,7 +33,7 @@ const aboutMe = {
 
 ---
 <h3>Other skills 👀</h3>
-  <img width="400" height="190" src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" align=right>
+  <img align="right" alt="GIF" src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" width="250" height="300" />
    ° 🌱 I’m currently learning Flutter, Tensorflow, Assembler and more regarding AI...
    ° 😎 Ability to analyze and create layout diagrams databases</br></br>
    ° 🧠 Excellent at solving both technical and logical ☕</br></br>
