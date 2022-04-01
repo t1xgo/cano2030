@@ -34,8 +34,9 @@ const aboutMe = {
 ---
 <h3>Other skills 👀</h3>
   <img align="right" alt="GIF" src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" width="250" height="300" />
-   ° 🌱 I’m currently learning Flutter, Tensorflow, Assembler and more regarding AI...
+  
    ° 😎 Ability to analyze and create layout diagrams databases</br></br>
+   ° 🌱 I’m currently learning Flutter, Tensorflow, Assembler and more regarding AI...
    ° 🧠 Excellent at solving both technical and logical ☕</br></br>
    ° 📝 Good management and adaptability to SCRUM methodologies</br></br>
    ° 😏 Excellent adaptation to new technologies</br></br>
