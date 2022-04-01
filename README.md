@@ -5,7 +5,7 @@ I'm a software developer, with very good logic programming always wishing for le
 
 
 
-<img align="right" alt="GIF" src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" width="250" height="300" />
+<img align="right" alt="GIF" src="https://github.com/cano2030/Gifs/blob/main/giphy.gif" width="250" height="300" />
 
 
 ```javascript
@@ -33,7 +33,8 @@ const aboutMe = {
 
 ---
 <h3>Other skills 👀</h3>
-  <img width="400" height="190" src="https://github.com/cano2030/Gifs/blob/main/giphy.gif" align=right>
+  <img width="400" height="190" src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" align=right>
+   ° 🌱 I’m currently learning Flutter, Tensorflow, Assembler and more regarding AI...
    ° 😎 Ability to analyze and create layout diagrams databases</br></br>
    ° 🧠 Excellent at solving both technical and logical ☕</br></br>
    ° 📝 Good management and adaptability to SCRUM methodologies</br></br>
@@ -67,29 +68,6 @@ const aboutMe = {
 
 
 
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**cano2030/cano2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
-- 🌱 I’m currently learning Flutter, Tensorflow...
-- 👯 I’m looking to collaborate on projects regarding Backend Development, FLutter and Machine Learning...
-- 💬 Ask me about AI, basketball, and more things...
-- 📫 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like basketball and that i can talk basic Korean
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cano2030&theme=nightowl&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cano2030&layout=compact&theme=nightowl)](https://github.com/cano2030/github-readme-stats)
 
 
 
