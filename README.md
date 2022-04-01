@@ -4,7 +4,7 @@
 I'm a software developer, with very good logic programming always wishing for learning, fast learner and high communicative ability.</em></p>
 
 
-<img src="https://giphy.com/gifs/KeepCoding-code-coding-keepcoding-ACzsN9dhQuOZ6RYXcM" width="40" height="40" />
+<img src="https://github.com/cano2030/Gifs/blob/main/giphy%20(1).gif" width="40" height="40" />
 
 
 ```javascript
