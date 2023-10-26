@@ -11,7 +11,8 @@ I'm a software developer, with very good logic programming always wishing for le
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "Typescript", "HTML", "C#", "Python", "Java", "Dart", "Rust"],
+   code: ["Javascript", "Typescript", "HTML", "C#",
+          "Python", "Java", "Dart", "Rust"],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
